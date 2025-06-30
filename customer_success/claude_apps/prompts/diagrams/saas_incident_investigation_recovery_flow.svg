@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1000" height="700" fill="#ffffff"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#2c3e50">SaaS Incident Investigation  &amp; Recovery Flow</text>
+  
+  <!-- Phase 1: Immediate Response -->
+  <rect x="50" y="60" width="150" height="80" rx="10" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <text x="125" y="85" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">IMMEDIATE</text>
+  <text x="125" y="100" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">RESPONSE</text>
+  <text x="125" y="115" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">(0-24 hours)</text>
+  
+  <!-- Phase 2: Investigation -->
+  <rect x="250" y="60" width="150" height="80" rx="10" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
+  <text x="325" y="85" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">INVESTIGATION</text>
+  <text x="325" y="100" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">&amp; ANALYSIS</text>
+  <text x="325" y="115" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">(1-3 days)</text>
+  
+  <!-- Phase 3: Remediation -->
+  <rect x="450" y="60" width="150" height="80" rx="10" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+  <text x="525" y="85" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">REMEDIATION</text>
+  <text x="525" y="100" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">&amp; FIXES</text>
+  <text x="525" y="115" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">(3-7 days)</text>
+  
+  <!-- Phase 4: Trust Rebuilding -->
+  <rect x="650" y="60" width="150" height="80" rx="10" fill="#27ae60" stroke="#229954" stroke-width="2"/>
+  <text x="725" y="85" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">TRUST</text>
+  <text x="725" y="100" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="white">REBUILDING</text>
+  <text x="725" y="115" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">(Ongoing)</text>
+  
+  <!-- Arrows between phases -->
+  <polygon points="200,100 230,90 230,110" fill="#34495e"/>
+  <polygon points="400,100 430,90 430,110" fill="#34495e"/>
+  <polygon points="600,100 630,90 630,110" fill="#34495e"/>
+  
+  <!-- Detailed steps for each phase -->
+  
+  <!-- Phase 1 Details -->
+  <rect x="20" y="170" width="210" height="120" rx="5" fill="#ffffff" stroke="#ecf0f1" stroke-width="1"/>
+  <text x="125" y="190" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#2c3e50">Immediate Actions</text>
+  <text x="30" y="210" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Emergency rollback if possible</text>
+  <text x="30" y="225" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Activate incident team</text>
+  <text x="30" y="240" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Create status page</text>
+  <text x="30" y="255" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Notify customers proactively</text>
+  <text x="30" y="270" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Document everything</text>
+  
+  <!-- Phase 2 Details -->
+  <rect x="250" y="170" width="210" height="120" rx="5" fill="#ffffff" stroke="#ecf0f1" stroke-width="1"/>
+  <text x="355" y="190" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#2c3e50">Investigation Process</text>
+  <text x="260" y="210" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Collect logs &amp; metrics</text>
+  <text x="260" y="225" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Timeline reconstruction</text>
+  <text x="260" y="240" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Root cause analysis</text>
+  <text x="260" y="255" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Impact assessment</text>
+  <text x="260" y="270" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Customer feedback analysis</text>
+  
+  <!-- Phase 3 Details -->
+  <rect x="480" y="170" width="210" height="120" rx="5" fill="#ffffff" stroke="#ecf0f1" stroke-width="1"/>
+  <text x="585" y="190" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#2c3e50">Remediation Steps</text>
+  <text x="490" y="210" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Develop fix strategy</text>
+  <text x="490" y="225" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Implement solutions</text>
+  <text x="490" y="240" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Enhanced testing</text>
+  <text x="490" y="255" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Gradual rollout</text>
+  <text x="490" y="270" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Validation with customers</text>
+  
+  <!-- Phase 4 Details -->
+  <rect x="710" y="170" width="210" height="120" rx="5" fill="#ffffff" stroke="#ecf0f1" stroke-width="1"/>
+  <text x="815" y="190" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#2c3e50">Trust Building</text>
+  <text x="720" y="210" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Transparent post-mortem</text>
+  <text x="720" y="225" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Process improvements</text>
+  <text x="720" y="240" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Customer success outreach</text>
+  <text x="720" y="255" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Enhanced monitoring</text>
+  <text x="720" y="270" font-family="Arial, sans-serif" font-size="10" fill="#34495e">• Regular check-ins</text>
+  
+  <!-- Communication Strategy Box -->
+  <rect x="150" y="320" width="500" height="100" rx="10" fill="#f8f9fa" stroke="#bdc3c7" stroke-width="2"/>
+  <text x="400" y="340" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2c3e50">Communication Strategy (Throughout All Phases)</text>
+  
+  <text x="170" y="360" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• Frequent updates (every 2-4 hours during crisis)</text>
+  <text x="170" y="375" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• Multiple channels: email, status page, in-app notifications</text>
+  <text x="170" y="390" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• Clear, honest language avoiding technical jargon</text>
+  <text x="170" y="405" font-family="Arial, sans-serif" font-size="11" fill="#34495e">• Executive involvement for major customers</text>
+  
+  <!-- Success Metrics Box -->
+  <rect x="150" y="450" width="500" height="100" rx="10" fill="#e8f5e8" stroke="#27ae60" stroke-width="2"/>
+  <text x="400" y="470" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#27ae60">Success Metrics to Track</text>
+  
+  <text x="170" y="490" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Customer churn rate • Support ticket volume • NPS/CSAT scores</text>
+  <text x="170" y="505" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• System uptime/reliability • Time to resolution • Customer engagement levels</text>
+  <text x="170" y="520" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">• Media sentiment • Social media mentions • Renewal rates</text>
+</svg>

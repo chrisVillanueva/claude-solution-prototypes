@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1000" height="700" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <text x="500" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#1e293b">Customer Success Office Hours &amp; Executive Engagement Strategy</text>
+  
+  <!-- Three main pillars -->
+  <rect x="50" y="70" width="280" height="150" rx="10" fill="#3b82f6" stroke="#2563eb" stroke-width="2"/>
+  <text x="190" y="95" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">IMMEDIATE ENGAGEMENT</text>
+  <text x="190" y="115" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">Post-Incident Office Hours</text>
+  
+  <rect x="360" y="70" width="280" height="150" rx="10" fill="#10b981" stroke="#059669" stroke-width="2"/>
+  <text x="500" y="95" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">ONGOING RELATIONSHIP</text>
+  <text x="500" y="115" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">Regular Success Sessions</text>
+  
+  <rect x="670" y="70" width="280" height="150" rx="10" fill="#8b5cf6" stroke="#7c3aed" stroke-width="2"/>
+  <text x="810" y="95" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">EXECUTIVE TOUCHPOINTS</text>
+  <text x="810" y="115" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">Leadership Accountability</text>
+  
+  <!-- Detailed breakdown for each pillar -->
+  
+  <!-- Immediate Engagement Details -->
+  <rect x="50" y="240" width="280" height="180" rx="5" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="190" y="260" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1e293b">Emergency Office Hours (First 2 Weeks)</text>
+  
+  <text x="60" y="280" font-family="Arial, sans-serif" font-size="10" fill="#475569">Daily Sessions:</text>
+  <text x="60" y="295" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• 2 sessions/day (AM/PM)</text>
+  <text x="60" y="308" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• 30min per session</text>
+  <text x="60" y="321" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Open Q&amp;A format</text>
+  
+  <text x="60" y="340" font-family="Arial, sans-serif" font-size="10" fill="#475569">Attendees:</text>
+  <text x="60" y="355" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Engineering Lead</text>
+  <text x="60" y="368" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Customer Success Manager</text>
+  <text x="60" y="381" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Product Manager</text>
+  
+  <text x="60" y="400" font-family="Arial, sans-serif" font-size="10" fill="#475569">Goals: Immediate concerns, roadmap clarity</text>
+  
+  <!-- Ongoing Relationship Details -->
+  <rect x="360" y="240" width="280" height="180" rx="5" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="500" y="260" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1e293b">Regular Success Sessions (Ongoing)</text>
+  
+  <text x="370" y="280" font-family="Arial, sans-serif" font-size="10" fill="#475569">Weekly Power User Hours:</text>
+  <text x="370" y="295" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Advanced feature training</text>
+  <text x="370" y="308" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Best practice sharing</text>
+  <text x="370" y="321" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Peer-to-peer learning</text>
+  
+  <text x="370" y="340" font-family="Arial, sans-serif" font-size="10" fill="#475569">Monthly Success Reviews:</text>
+  <text x="370" y="355" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Usage analytics review</text>
+  <text x="370" y="368" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• ROI measurement</text>
+  <text x="370" y="381" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Goal setting</text>
+  
+  <text x="370" y="400" font-family="Arial, sans-serif" font-size="10" fill="#475569">Goals: Value maximization, retention</text>
+  
+  <!-- Executive Touchpoints Details -->
+  <rect x="670" y="240" width="280" height="180" rx="5" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="810" y="260" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#1e293b">Executive Accountability Program</text>
+  
+  <text x="680" y="280" font-family="Arial, sans-serif" font-size="10" fill="#475569">C-Level Apology Calls:</text>
+  <text x="680" y="295" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• CEO/CTO direct outreach</text>
+  <text x="680" y="308" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Enterprise customers first</text>
+  <text x="680" y="321" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Personal accountability</text>
+  
+  <text x="680" y="340" font-family="Arial, sans-serif" font-size="10" fill="#475569">Quarterly Business Reviews:</text>
+  <text x="680" y="355" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Strategic partnership focus</text>
+  <text x="680" y="368" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Roadmap alignment</text>
+  <text x="680" y="381" font-family="Arial, sans-serif" font-size="9" fill="#64748b">• Success metrics review</text>
+  
+  <text x="680" y="400" font-family="Arial, sans-serif" font-size="10" fill="#475569">Goals: Strategic alignment, trust repair</text>
+  
+  <!-- Implementation Timeline -->
+  <rect x="50" y="450" width="900" height="100" rx="10" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="500" y="475" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#1e293b">Implementation Timeline</text>
+  
+  <!-- Week 1 -->
+  <rect x="80" y="490" width="150" height="40" rx="5" fill="#ef4444" stroke="#dc2626" stroke-width="1"/>
+  <text x="155" y="505" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">Week 1</text>
+  <text x="155" y="518" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="white">Emergency Office Hours</text>
+  
+  <!-- Week 2-3 -->
+  <rect x="250" y="490" width="150" height="40" rx="5" fill="#f97316" stroke="#ea580c" stroke-width="1"/>
+  <text x="325" y="505" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">Week 2-3</text>
+  <text x="325" y="518" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="white">Executive Calls</text>
+  
+  <!-- Month 1-2 -->
+  <rect x="420" y="490" width="150" height="40" rx="5" fill="#eab308" stroke="#ca8a04" stroke-width="1"/>
+  <text x="495" y="505" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">Month 1-2</text>
+  <text x="495" y="518" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="white">Transition to Regular</text>
+  
+  <!-- Ongoing -->
+  <rect x="590" y="490" width="150" height="40" rx="5" fill="#22c55e" stroke="#16a34a" stroke-width="1"/>
+  <text x="665" y="505" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle" fill="white">Ongoing</text>
+  <text x="665" y="518" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="white">Success Sessions</text>
+  
+  <!-- Success Metrics -->
+  <rect x="50" y="570" width="900" height="110" rx="10" fill="#ecfdf5" stroke="#22c55e" stroke-width="2"/>
+  <text x="500" y="595" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#15803d">Success Metrics &amp; KPIs</text>
+  
+  <text x="80" y="615" font-family="Arial, sans-serif" font-size="11" fill="#166534">Engagement Metrics:</text>
+  <text x="80" y="630" font-family="Arial, sans-serif" font-size="9" fill="#22c55e">• Office Hours attendance rate (target: 70%+ for enterprise)</text>
+  <text x="80" y="643" font-family="Arial, sans-serif" font-size="9" fill="#22c55e">• Question-to-resolution ratio</text>
+  <text x="80" y="656" font-family="Arial, sans-serif" font-size="9" fill="#22c55e">• Customer satisfaction scores for sessions</text>
+  
+  <text x="400" y="615" font-family="Arial, sans-serif" font-size="11" fill="#166534">Relationship Metrics:</text>
+  <text x="400" y="630" font-family="Arial, sans-serif" font-size="9" fill="#22c55e">• Trust score improvement (pre/post survey)</text>
+  <text x="400" y="643" font-family="Arial, sans-serif" font-size="9" fill="#22c55e">• Executive call sentiment analysis</text>
+  <text x="400" y="656" font-family="Arial, sans-serif" font-size="9" fill="#22c55e">• Renewal probability scores</text>
+  
+  <text x="700" y="615" font-family="Arial, sans-serif" font-size="11" fill="#166534">Business Impact:</text>
+  <text x="700" y="630" font-family="Arial, sans-serif" font-size="9" fill="#22c55e">• Churn rate reduction</text>
+  <text x="700" y="643" font-family="Arial, sans-serif" font-size="9" fill="#22c55e">• Upsell opportunity identification</text>
+  <text x="700" y="656" font-family="Arial, sans-serif" font-size="9" fill="#22c55e">• Support ticket reduction</text>
+</svg>
